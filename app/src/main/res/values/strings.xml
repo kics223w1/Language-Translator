@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">The Language</string>
+    <string name="home">Home</string>
+    <string name="books">Books</string>
+    <string name="vip">Vip</string>
+    <string name="title_select_lang_action_bar">Chose Languages</string>
+    <string name="list_of_books">List of Books</string>
+    <string name="search">Search</string>
+    <string name="set_book_select">Set book to select</string>
+    <string name="Next_page">Next page</string>
+    <string name="Select_language">Select language....</string>
+    <string name="Delete">Delete....</string>
+    <string name="First_page">We are in first page</string>
+    <string name="translated_text_hint">Translated text</string>
+    <string name="downloaded_models_label">Downloaded models: %1$s</string>
+    <string name="translate_progress">Translating&#8230;</string>
+    <string name="delete_model">Delete Model</string>
+    <string name="download_model">Download Model</string>
+    <string name="unknown_error">Unknown error occurred.</string>
+    <string name="source_text_hint">Source text</string>
+    <string name="Last_page">We are in last page</string>
+    <string name="Page">Page</string>
+    <string name="Move_up">Go to page</string>
+    <string name="Move_down">Back to page</string>
+    <string name="Add_words">Add words to create page 2</string>
+    <string name="Process_model">Setting language</string>
+    <string name="Translate">Translate</string>
+    <string name="Translating">Translating</string>
+    <string name="Store_words_in_1time">How to store a lot of words in one time....</string>
+    <string name="Previous_page">Previous page</string>
+    <string name="title_list_book_select_action_bar">Select book to store</string>
+    <string name="title_list_book_action_bar">List Books</string>
+    <string name="title_list_page_action_bar">List page</string>
+    <string name="Chose_book_to_store">Chose book to store</string>
+    <string name="Store_word_to"><![CDATA[Store word to—>]]></string>
+    <string name="Set_mean_of_word">Set mean of word</string>
+    <string name="Please_set_mean_of_word">Please set mean of word</string>
+    <string name="Instruction">Instruction</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

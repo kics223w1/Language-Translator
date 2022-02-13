@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="110dp"
+    android:orientation="horizontal"
+    android:weightSum="2">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="4dp"
+        android:layout_weight="1.6"
+        app:cardBackgroundColor="@color/purple_500"
+        app:cardCornerRadius="11dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/select_languages_img"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_marginStart="6dp"
+                android:layout_marginLeft="6dp"
+                android:layout_marginTop="4dp"
+                android:src="@drawable/books_open" />
+
+            <TextView
+                android:id="@+id/txt_list_of_book_select"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="8dp"
+                android:layout_marginLeft="10dp"
+                android:layout_toEndOf="@+id/select_languages_img"
+                android:layout_toRightOf="@+id/select_languages_img"
+                android:textColor="@color/black"
+                android:textSize="26sp" />
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+    <Button
+        android:id="@+id/btn_chose_select_book"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="5dp"
+        android:layout_weight="0.4"
+        android:background="@drawable/ripple_effect"
+        android:text="Chose book"
+        android:textColor="@color/black"
+        android:textSize="14sp" />
+
+
+</LinearLayout>

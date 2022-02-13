@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/drawable-v21/ripple_effect.xml" value="0.3453703703703704" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3453703703703704" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/drawable/bg_blue_bottomleft_bottomright_corners_16dp.xml" value="0.346782431052094" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/drawable/bg_light_blue_all_corners_16dp.xml" value="0.2916666666666667" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/drawable/bg_purple_500_all_corners_16dp.xml" value="0.2953703703703704" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/drawable/bg_purple_700_all_corners_16dp.xml" value="0.29907407407407405" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/drawable/gradients_blue_to_purple.xml" value="0.35" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/drawable/gradients_pink_to_lightlblue.xml" value="0.3314814814814815" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/drawable/gradients_purple_to_blueocean.xml" value="0.35" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/drawable/gradients_red_background.xml" value="0.35" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/drawable/gradients_white_to_gray.xml" value="0.35" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/drawable/ripple_effect.xml" value="0.3314814814814815" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/drawable/round_corners_purple_700.xml" value="0.3175925925925926" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/layout/activity_main.xml" value="0.23505434782608695" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/layout/activity_splash.xml" value="0.23505434782608695" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/layout/fragment_instruction.xml" value="0.23505434782608695" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/layout/fragment_list_book.xml" value="0.317481884057971" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/layout/fragment_list_book_select.xml" value="0.23505434782608695" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/layout/fragment_list_page.xml" value="0.317481884057971" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/layout/fragment_transfer_lang.xml" value="0.317481884057971" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/layout/fragment_translate.xml" value="0.317481884057971" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/layout/fragment_user_lang.xml" value="0.317481884057971" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/layout/fragment_vip.xml" value="0.317481884057971" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/layout/layout_dialog_edit_userlang.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/layout/layout_dialog_rename_book.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/layout/layout_dialog_stop_app.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/layout/layout_dialog_wifi.xml" value="0.2753623188405797" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/layout/layout_item_list_page.xml" value="0.30978260869565216" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/layout/layout_list_book_select.xml" value="0.16145307769929365" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/layout/layout_user_language.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/menu/menu_top.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3453703703703704" />
+        <entry key="..\:/Users/Huy's PC/AndroidStudioProjects/myapptranslate1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3453703703703704" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

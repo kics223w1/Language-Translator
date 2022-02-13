@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradients_blue_to_purple">
+
+    <LinearLayout
+        android:id="@+id/layout_top"
+        android:layout_marginTop="160dp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+
+        <TextView
+            android:id="@+id/tv_app_name"
+            android:gravity="center"
+            android:textSize="40sp"
+            android:text="𝔗𝔥𝔢 𝔩𝔞𝔫𝔤𝔲𝔞𝔤𝔢"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:id="@+id/layout_mid"
+        android:layout_below="@+id/layout_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:gravity="center"
+            android:textSize="30sp"
+            android:text="So helpful for people who"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/layout_bot"
+        android:layout_below="@+id/layout_mid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:gravity="center"
+            android:textSize="30sp"
+            android:text="struggle for storing words after reading practice test"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+</RelativeLayout>

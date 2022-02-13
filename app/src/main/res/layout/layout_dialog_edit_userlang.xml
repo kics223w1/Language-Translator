@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/bg_purple_500_all_corners_16dp"
+    android:layout_margin="16dp">
+
+    <TextView
+        android:text="@string/Set_mean_of_word"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:padding="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:background="@drawable/bg_blue_bottomleft_bottomright_corners_16dp"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Please_set_mean_of_word"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="16sp"/>
+
+        <EditText
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:id="@+id/edit_text_dialog"
+            android:background="@drawable/bg_purple_700_all_corners_16dp"
+            android:padding="12dp"
+            android:layout_marginTop="16dp"
+            android:maxLines="1"
+            android:inputType="text"
+            android:hint="Name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <LinearLayout
+            android:layout_marginTop="16dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/btn_dialog_cancel"
+                android:textColor="@color/white"
+                android:textSize="14sp"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/ripple_effect"
+                android:text="Cancel"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+
+            <Button
+                android:id="@+id/btn_dialog_rename"
+                android:textColor="@color/white"
+                android:textSize="14sp"
+                android:layout_marginLeft="5dp"
+                android:background="@drawable/ripple_effect"
+                android:text="OK"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

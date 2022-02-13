@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradients_blue_to_purple"
+    tools:context="myapptranslate1.my.Fragment.VipFragment">
+
+
+    <TextView
+        android:id="@+id/btn_stop"
+        android:background="@drawable/ripple_effect"
+        android:textStyle="bold"
+        android:textSize="29sp"
+        android:textColor="@color/black"
+        android:text="Stop"
+        android:layout_marginTop="120dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="80dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/btn_spin"
+        android:background="@drawable/ripple_effect"
+        android:textStyle="bold"
+        android:textSize="29sp"
+        android:textColor="@color/black"
+        android:text="Spin"
+        android:layout_marginTop="120dp"
+        android:layout_toEndOf="@+id/btn_stop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tv_text_vip"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="Soon"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
