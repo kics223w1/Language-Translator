@@ -22,6 +22,6 @@
 # Summary
 This is my first app, that time i didn't have a lot knowledage about android.
 So you can be albe dowload this app if your phone has android 10 and above.
-Code is messy and you can see my code is better in The password and The intership.
+Please check out my The intership , that is social network app with a lot of difficult UI and difficult features.
 
 
