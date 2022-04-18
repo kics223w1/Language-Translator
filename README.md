@@ -1,4 +1,4 @@
-# The language
+#### The Language
 <a href="https://play.google.com/store/apps/details?id=myapptranslate1.my">
   <p><img src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/en_get.svg" width="20%"></p>
 </a>
@@ -19,6 +19,9 @@
 ✅ Store , edit, delete unlimited words</br>
 ✅ Unlimited page of each book and 21 words of each page</br>
 
-
+# Summary
+This is my first app, that time i didn't have a lot knowledage about android.
+So you can be albe dowload this app if your phone has android 10 and above.
+Code is messy and you can see my code is better in The password and The intership.
 
 
